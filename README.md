@@ -1,5 +1,5 @@
 <h1 align="left">Snake Game Using Arrays And Linked Lists In Java<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p></h1>
-![WhatsApp Image 2024-06-27 at 15 57 38_4a488d56](https://github.com/idiksha2004/Snake-Game-Using-Arrays-And-Linked-Lists-In-Java/assets/135644050/b9ed2e55-6161-4671-9841-bf156a9e70e0)
+
 
 ###
 
