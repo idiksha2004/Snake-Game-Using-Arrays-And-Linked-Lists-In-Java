@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Three Difficulty Levels: Choose from Easy, Medium, or Hard to match your skill level.<br><br>-Dynamic Speed Adjustment: The snake’s speed varies with the selected difficulty level.<br><br>-Score Display: Keep track of your score as you navigate the snake.<br><br>-Responsive Controls: Intuitive keyboard controls to guide your snake.<br><br>-Game Over Screen: Get your score and a message when the game ends.</p>
+<p align="left">-Three Difficulty Levels: Choose from Easy, Medium, or Hard to match your skill level.<br><br>-Dynamic Speed Adjustment: The snake’s speed varies with the selected difficulty level.<br><br>-Score Display: Keep track of your score as you navigate the snake.<br><br>-Responsive Controls: Intuitive keyboard controls to guide your snake.<br><br>-Game Over Screen: Get your score and a message when the game ends.</p>
 
 ###
 
